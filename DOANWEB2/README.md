@@ -87,7 +87,7 @@ http://localhost:8080/DAWEBB/home
 
 ---
 
-**7. Các chức năng chính**
+## **7. Các chức năng chính**
 - Người dùng
 + Đăng ký, đăng nhập tài khoản  
 + Xem chi tiết sản phẩm và danh mục  
