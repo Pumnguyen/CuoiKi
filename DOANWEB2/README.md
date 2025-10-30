@@ -50,11 +50,16 @@ Mục tiêu là xây dựng một website hoàn chỉnh, có tính thực tế c
 ## 5. Cấu trúc dự án
 DAWEBB/
 │
-├── src/main/java/me/quangtruong/
+├── src/
+│ └── main/
+│ └── java/
+│ └── me/
+│ └── quangtruong/
 │ ├── controller/
 │ │ ├── HomeController.java
 │ │ ├── ProductManagerController.java
 │ │ └── VNPAYController.java
+│ │
 │ ├── entity/
 │ │ ├── Product.java
 │ │ ├── ProductCategory.java
@@ -62,6 +67,7 @@ DAWEBB/
 │ │ ├── Orders.java
 │ │ ├── Transaction.java
 │ │ └── Rating.java
+│ │
 │ ├── dao/
 │ └── jwt/
 │
@@ -69,13 +75,15 @@ DAWEBB/
 │ ├── views/
 │ │ ├── home.jsp
 │ │ ├── shop.jsp
-│ │ ├── admin/
-│ │ │ ├── dashboard.jsp
-│ │ │ └── analytics.jsp
+│ │ └── admin/
+│ │ ├── dashboard.jsp
+│ │ └── analytics.jsp
+│ │
 │ ├── assets/
 │ │ ├── css/
 │ │ ├── js/
 │ │ └── images/
+│ │
 │ └── WEB-INF/
 │ ├── web.xml
 │ └── sitemesh.xml
