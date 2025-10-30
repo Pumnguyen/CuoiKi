@@ -69,14 +69,14 @@ CREATE DATABASE uteshop;
 ```
 
 ## **7. Các chức năng chính**
- Người dùng
+ **Người dùng**
 + Đăng ký, đăng nhập tài khoản  
 + Xem chi tiết sản phẩm và danh mục  
 + Thêm sản phẩm vào giỏ hàng  
 + Thanh toán trực tuyến (VNPay - TryItNow sandbox)  
 + Đánh giá sản phẩm sau khi mua  
 
-Quản trị viên (Admin)
+**Quản trị viên (Admin)**
 + Quản lý sản phẩm, danh mục, người dùng  
 + Xem, duyệt đơn hàng và doanh thu  
 + Trang **Analytics Dashboard** hiển thị thống kê bán hàng  
@@ -85,7 +85,7 @@ Quản trị viên (Admin)
 
 ## **8. Mô hình cơ sở dữ liệu**
 
-Các bảng chính:
+**Các bảng chính:**
 - `Users(UserId, UserFullName, UserPhone, UserEmail, UserAddress, UserPassword, UserIsAdmin, UserImage, UserRegisDay)`
 - `Product(ProductId, ProductName, ProductImage, ProductPrice, ProductAmount, ProductCategoryId)`
 - `ProductCategory(ProductCategoryId, ProductCategoryName)`
@@ -93,7 +93,7 @@ Các bảng chính:
 - `Transaction(TransId, TransDay, TransAddress, TransStatus, TransTotalValue, UserId)`
 - `Rating(RatingId, RatingDate, RatingValue, RatingComment, ProductId, UserId)`
 
-Các mối quan hệ:
+**Các mối quan hệ:**
 - `Users → Orders`: 1 - N  
 - `ProductCategory → Product`: 1 - N  
 - `Product → Rating`: 1 - N  
@@ -103,11 +103,11 @@ Các mối quan hệ:
 
 ## **9. Kết quả đạt được**
 
-- Website hoạt động ổn định, tích hợp VNPay sandbox thành công  
-- Giao diện thân thiện, hiện đại  
-- Cấu trúc code theo mô hình MVC rõ ràng
-- Chức năng **CRUD** hoạt động đầy đủ  
-- Dễ mở rộng, có thể triển khai thật với môi trường production  
+Website hoạt động ổn định, tích hợp VNPay sandbox thành công  
+Giao diện thân thiện, hiện đại  
+Cấu trúc code theo mô hình MVC rõ ràng
+Chức năng **CRUD** hoạt động đầy đủ  
+Dễ mở rộng, có thể triển khai thật với môi trường production  
 
 ---
 
