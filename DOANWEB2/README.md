@@ -114,9 +114,14 @@ Dễ mở rộng, có thể triển khai thật với môi trường production
 ## **10. Giao diện**
 
 ```markdown
-![Đăng nhập](<img width="980" height="371" alt="image" src="https://github.com/user-attachments/assets/2e4120e3-c6ac-4c7b-b34d-87a4328430e5" />)
-![Trang chủ]()
-![Trang quản trị](./screenshots/admin_dashboard.png)
-![Sơ đồ ERD](./docs/ERD.png)
-![Use Case Diagram](./docs/usecase.png)
+![Đăng nhập](<img width="980" height="371" alt="image" src="https://github.com/user-attachments/assets/42196602-0d33-45f5-ade5-b217dc4f9f81" />)
+![Trang chủ](<img width="980" height="471" alt="image" src="https://github.com/user-attachments/assets/471472e7-7c38-4054-a3ff-038a3476c85c" />)
+![Thông tin người dùng và Admin](<img width="980" height="469" alt="image" src="https://github.com/user-attachments/assets/5effb6bf-ad32-4c53-9c15-fed39ec7c80e" />)
+![Quản lý đơn hàng dành cho Admin](<img width="980" height="470" alt="image" src="https://github.com/user-attachments/assets/4d9abb68-bf8c-4e14-883f-f9f3dc85e6ce" />)
+![Danh mục sản phẩm](<img width="980" height="473" alt="image" src="https://github.com/user-attachments/assets/d655f23f-0304-46d2-a929-9a745b37d6c2" />)
+![Thông tin sản phẩm](<img width="980" height="472" alt="image" src="https://github.com/user-attachments/assets/7e8a7689-4285-45f3-a5c4-cf94dec40371" />)
+![Dashboard dành cho Admin](<img width="980" height="470" alt="image" src="https://github.com/user-attachments/assets/69473738-038a-4618-991d-470bbac2ba59" />)
+![Thanh toán VNPay](<img width="980" height="467" alt="image" src="https://github.com/user-attachments/assets/3939a663-9a02-4236-97ad-3289451cdfe4" />)
+![Sơ đồ ERD](<img width="980" height="746" alt="image" src="https://github.com/user-attachments/assets/93f8b612-fe41-4f8c-baa1-1080ccd6339b" />)
+![Use Case Diagram](<img width="980" height="593" alt="image" src="https://github.com/user-attachments/assets/4d51be8f-35d6-4e10-b379-cf611a618b89" />)
 
