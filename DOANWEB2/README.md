@@ -94,7 +94,7 @@ DAWEBB/
 
 ---
 
-## 6. Hướng dẫn cài đặt và chạy dự án  
+##** 6. Hướng dẫn cài đặt và chạy dự án  **
 
 Bước 1: Cấu hình môi trường  
 - Cài đặt JDK 17
