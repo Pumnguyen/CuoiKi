@@ -43,7 +43,7 @@ Mục tiêu là xây dựng một website hoàn chỉnh, có tính thực tế c
 | Máy chủ ứng dụng          | Apache Tomcat 10.1                   |
 | Thư viện hỗ trợ           | JWT, VNPay API, Sitemesh Decorator   |
 | IDE phát triển            | Eclipse                              |
-| Hệ điều hành              | Windows 10                           |
+| Hệ điều hành              | Windows 11                           |
 
 ---
 
