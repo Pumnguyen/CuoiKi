@@ -48,7 +48,7 @@ Mục tiêu là xây dựng một website hoàn chỉnh, có tính thực tế c
 ---
 
 ## 5. Cấu trúc dự án
-DAWEBB/
+```**DAWEBB/
 │
 ├── src/
 │ └── main/
@@ -89,7 +89,7 @@ DAWEBB/
 │ └── sitemesh.xml
 │
 ├── pom.xml
-└── README.md
+└── README.md```**
 ---
 
 ## 6. Hướng dẫn cài đặt và chạy dự án  
