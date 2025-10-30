@@ -85,7 +85,7 @@ Quản trị viên (Admin)
 
 ## ** 8. Mô hình cơ sở dữ liệu**
 
-**Các bảng chính:**
+Các bảng chính:
 - `Users(UserId, UserFullName, UserPhone, UserEmail, UserAddress, UserPassword, UserIsAdmin, UserImage, UserRegisDay)`
 - `Product(ProductId, ProductName, ProductImage, ProductPrice, ProductAmount, ProductCategoryId)`
 - `ProductCategory(ProductCategoryId, ProductCategoryName)`
@@ -103,17 +103,15 @@ Quản trị viên (Admin)
 
 ## ** 9. Kết quả đạt được**
 
-- Website hoạt động ổn định, tích hợp **VNPay sandbox** thành công  
+- Website hoạt động ổn định, tích hợp VNPay sandbox thành công  
 - Giao diện thân thiện, hiện đại  
-- Cấu trúc code theo mô hình **MVC rõ ràng**  
+- Cấu trúc code theo mô hình MVC rõ ràng
 - Chức năng **CRUD** hoạt động đầy đủ  
 - Dễ mở rộng, có thể triển khai thật với môi trường production  
 
 ---
 
 ## ** 10. Hình minh họa**
-
-> *(Thêm hình minh họa khi upload lên GitHub, ví dụ:)*
 
 ```markdown
 ![Trang chủ](./screenshots/home.png)
