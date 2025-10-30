@@ -69,14 +69,14 @@ CREATE DATABASE uteshop;
 ```
 
 ## **7. Các chức năng chính**
-- Người dùng
+ Người dùng
 + Đăng ký, đăng nhập tài khoản  
 + Xem chi tiết sản phẩm và danh mục  
 + Thêm sản phẩm vào giỏ hàng  
 + Thanh toán trực tuyến (VNPay - TryItNow sandbox)  
 + Đánh giá sản phẩm sau khi mua  
 
-- Quản trị viên (Admin)
+Quản trị viên (Admin)
 + Quản lý sản phẩm, danh mục, người dùng  
 + Xem, duyệt đơn hàng và doanh thu  
 + Trang **Analytics Dashboard** hiển thị thống kê bán hàng  
