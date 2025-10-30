@@ -59,7 +59,7 @@ Mục tiêu là xây dựng một website hoàn chỉnh, có tính thực tế c
 
 ### **Bước 2: Import project**  
 Trong Eclipse:  
-`File → Import → Existing Maven Project → Chọn thư mục DAWEBB/`
+`File → Import → Existing Maven Project → Chọn thư mục DAWEBB2/`
 
 ### **Bước 3: Cấu hình cơ sở dữ liệu**  
 Tạo database MySQL:  
