@@ -49,43 +49,22 @@ Mục tiêu là xây dựng một website hoàn chỉnh, có tính thực tế c
 
 
 
-##** 6. Hướng dẫn cài đặt và chạy dự án  **
+## 6. Hướng dẫn cài đặt và chạy dự án  
 
-Bước 1: Cấu hình môi trường  
-- Cài đặt JDK 17
-- Cài đặt Apache Tomcat 10.1 
-- Cài đặt MySQL 8.0
-- Cài đặt Eclipse IDE for Enterprise Java Developers
+### **Bước 1: Cấu hình môi trường**  
+- Cài đặt **JDK 17**  
+- Cài đặt **Apache Tomcat 10.1**  
+- Cài đặt **MySQL 8.0**  
+- Cài đặt **Eclipse IDE for Enterprise Java Developers**
 
-Bước 2: Import project
+### **Bước 2: Import project**  
 Trong Eclipse:  
 `File → Import → Existing Maven Project → Chọn thư mục DAWEBB/`
 
-Bước 3: Cấu hình cơ sở dữ liệu
+### **Bước 3: Cấu hình cơ sở dữ liệu**  
 Tạo database MySQL:  
 ```sql
 CREATE DATABASE uteshop;
-Bước 4: Cấu hình VNPay (TryItNow sandbox)
-vnp_TmnCode=UTESHOPTEST
-vnp_HashSecret=UTESHOP_SECRET_123
-vnp_Url=https://sandbox.vnpayment.vn/tryitnow/Home/CreateOrder
-vnp_Returnurl=http://localhost:8080/DAWEBB/vnpay_return
-
----
-
-Bước 5: Khởi chạy ứng dụng
-Add server Tomcat v10.1
-Run project → Run on Server
-Mở trình duyệt và truy cập:
-http://localhost:8080/DAWEBB/home
-**5. Khởi chạy ứng dụng**
-
-- Add server Tomcat v10.1
-- Run project → Run on Server
-- Mở trình duyệt và truy cập:  
-  [http://localhost:8080/DAWEBB/home](http://localhost:8080/DAWEBB/home)
-
----
 
 ## **7. Các chức năng chính**
 - Người dùng
