@@ -111,10 +111,11 @@ Dễ mở rộng, có thể triển khai thật với môi trường production
 
 ---
 
-## **10. Hình minh họa**
+## **10. Giao diện**
 
 ```markdown
-![Trang chủ](./screenshots/home.png)
+![Đăng nhập](<img width="980" height="371" alt="image" src="https://github.com/user-attachments/assets/2e4120e3-c6ac-4c7b-b34d-87a4328430e5" />)
+![Trang chủ]()
 ![Trang quản trị](./screenshots/admin_dashboard.png)
 ![Sơ đồ ERD](./docs/ERD.png)
 ![Use Case Diagram](./docs/usecase.png)
