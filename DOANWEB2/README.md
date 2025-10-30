@@ -83,7 +83,7 @@ Quản trị viên (Admin)
 
 ---
 
-## ** 8. Mô hình cơ sở dữ liệu**
+## **8. Mô hình cơ sở dữ liệu**
 
 Các bảng chính:
 - `Users(UserId, UserFullName, UserPhone, UserEmail, UserAddress, UserPassword, UserIsAdmin, UserImage, UserRegisDay)`
@@ -93,7 +93,7 @@ Các bảng chính:
 - `Transaction(TransId, TransDay, TransAddress, TransStatus, TransTotalValue, UserId)`
 - `Rating(RatingId, RatingDate, RatingValue, RatingComment, ProductId, UserId)`
 
-**Các mối quan hệ:**
+Các mối quan hệ:
 - `Users → Orders`: 1 - N  
 - `ProductCategory → Product`: 1 - N  
 - `Product → Rating`: 1 - N  
@@ -101,7 +101,7 @@ Các bảng chính:
 
 ---
 
-## ** 9. Kết quả đạt được**
+## **9. Kết quả đạt được**
 
 - Website hoạt động ổn định, tích hợp VNPay sandbox thành công  
 - Giao diện thân thiện, hiện đại  
@@ -111,7 +111,7 @@ Các bảng chính:
 
 ---
 
-## ** 10. Hình minh họa**
+## **10. Hình minh họa**
 
 ```markdown
 ![Trang chủ](./screenshots/home.png)
