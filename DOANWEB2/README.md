@@ -66,6 +66,8 @@ Tạo database MySQL:
 ```sql
 CREATE DATABASE uteshop;
 
+---
+
 ## **7. Các chức năng chính**
 - Người dùng
 + Đăng ký, đăng nhập tài khoản  
