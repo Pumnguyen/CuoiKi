@@ -65,7 +65,7 @@ Bước 3: Cấu hình cơ sở dữ liệu
 Tạo database MySQL:  
 ```sql
 CREATE DATABASE uteshop;
-Bước 4: Cấu hình VNPay (TryItNow sandbox)**
+Bước 4: Cấu hình VNPay (TryItNow sandbox)
 vnp_TmnCode=UTESHOPTEST
 vnp_HashSecret=UTESHOP_SECRET_123
 vnp_Url=https://sandbox.vnpayment.vn/tryitnow/Home/CreateOrder
